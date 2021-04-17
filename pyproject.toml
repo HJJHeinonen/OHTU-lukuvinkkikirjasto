@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ohtu-lukuvinkkikirjasto"
+name = "lukuvinkkikirjasto"
 version = "0.1.0"
 description = ""
 authors = ["Mari Suomalainen <mariannikasuomalainen@gmail.com>"]
