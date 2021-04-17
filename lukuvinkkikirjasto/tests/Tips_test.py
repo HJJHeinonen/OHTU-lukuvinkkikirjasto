@@ -1,5 +1,5 @@
 import unittest
-from tips import Tips
+from lukuvinkkikirjasto.tips import Tips
 
 
 class DBWrapperStub:
