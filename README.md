@@ -41,7 +41,7 @@ poetry install
 Alusta projektin tietokanta käskyllä
 
 ```bash
-poetry run python setup.py
+poetry run python utils/initialize_db.py
 ```
 
 Tämän jälkeen siirry alihakemistoon **src**, ja käynnistä virtuaaliympäristö komennoilla:
