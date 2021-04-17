@@ -4,4 +4,4 @@ omit =
     *app.py
     *_library.py
     *tests*
-source = src
+source = lukuvinkkikirjasto
