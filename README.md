@@ -87,7 +87,7 @@ poetry shell
 Tämän jälkeen testit voi ajaa komennolla:
 
 ```bash
-robot src/tests/robotframework
+robot lukuvinkkikirjasto/tests/robotframework
 ```
 
 **Mikäli testien ajaminen ei onnistu, tarkistathan, että suhteellinen polku hakemistoon on oikea**.
